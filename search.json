@@ -2,37 +2,107 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mysite",
+    "title": "Interdisciplinary Graduate Methods",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "If you’ve ended up here, you likely either want the course syllabus or the lecture slides"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 9, 2023\n\n\nWelcome to Interdisciplinary Research Methods!\n\n\n\n\n\n\n\nJan 18, 2023\n\n\nResearch Questions and Hypotheses\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures/week_1_intro.html#about-me",
     "href": "lectures/week_1_intro.html#about-me",
     "title": "Welcome to Interdisciplinary Research Methods!",
     "section": "About Me",
-    "text": "About Me\n\nOrganizational Communication\nOnline Communities\nComputational Methods"
+    "text": "About Me"
   },
   {
     "objectID": "lectures/week_1_intro.html#about-you",
     "href": "lectures/week_1_intro.html#about-you",
     "title": "Welcome to Interdisciplinary Research Methods!",
     "section": "About You",
-    "text": "About You\n\nWhat department are you in?\nWhat stage are you at?\nWhat do you hope to get out of the class?\nWhat is something you enjoy more than most people?"
+    "text": "About You\n\nWhat department are you in?\nWhat stage are you at?\nWhat do you hope to get out of the class?\nWhat is something you enjoy more than most people do?"
   },
   {
-    "objectID": "lectures/week_2.html#about-me",
-    "href": "lectures/week_2.html#about-me",
+    "objectID": "lectures/week_1_intro.html#goals",
+    "href": "lectures/week_1_intro.html#goals",
     "title": "Welcome to Interdisciplinary Research Methods!",
-    "section": "About Me",
-    "text": "About Me\n\nOrganizational Communication\nOnline Communities\nComputational Methods"
+    "section": "Goals",
+    "text": "Goals\n\nUnderstand fundamental concepts in doing good research\nDevelop skills for establishing interdisciplinary collaborations\nGain exposure to a variety of research approaches\nLearn how to apply a research method to a topic relevant to your research\nImprove critical thinking ability and writing skills with regards to research methods\n\n\nHelp us to develop a class that is interesting and useful to Purdue graduate students"
   },
   {
-    "objectID": "lectures/week_2.html#about-you",
-    "href": "lectures/week_2.html#about-you",
+    "objectID": "lectures/week_1_intro.html#how-we-get-there",
+    "href": "lectures/week_1_intro.html#how-we-get-there",
     "title": "Welcome to Interdisciplinary Research Methods!",
-    "section": "About You",
-    "text": "About You\n\nWhat department are you in?\nWhat stage are you at?\nWhat do you hope to get out of the class?\nWhat is something you enjoy more than most people?"
+    "section": "How we get there",
+    "text": "How we get there\n\nClass sessions\nFinal project"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#class-sessions",
+    "href": "lectures/week_1_intro.html#class-sessions",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Class Sessions",
+    "text": "Class Sessions\n\nTuesdays\n\nA guest lecture from an expert in the week’s topic\nTypically 2-3 readings\n\nThursdays\n\nSeminar-style discussion of the readings provided by the guest lecturer and 1-2 more social science specific readings chosen by me\n1-2 students will prepare and circulate a set of discussion questions and then lead a discussion about the readings\nSign up now for 2 Thursdays to lead discussion"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#assignments",
+    "href": "lectures/week_1_intro.html#assignments",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Assignments",
+    "text": "Assignments\n\nLeading discussion sections\nResearch Project Design\n\nFull design of a research project, ideally that you will carry out\nFinal presentation\n\nIntermediate assignments\n\nHypotheses\nLiterature review\nMethods and dummy results"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#grading",
+    "href": "lectures/week_1_intro.html#grading",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Grading",
+    "text": "Grading\n\nSelf-grading\n\nGoal is to build structures that encourage learning and accountability\nTwo self-reflection assignments\nAssignments get feedback, not grades\nYou will assign yourself a grade at the end of the semester. If I disagree I will reach out."
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#wiki",
+    "href": "lectures/week_1_intro.html#wiki",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Wiki",
+    "text": "Wiki\n\nSchedule\nLinks to readings\nLinks to assignments"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#brightspace",
+    "href": "lectures/week_1_intro.html#brightspace",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Brightspace",
+    "text": "Brightspace\n\nSome readings\nSubmit assignments"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#office-hours",
+    "href": "lectures/week_1_intro.html#office-hours",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nTuesdays, 2-4\n\nAlso open to meeting virtually"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#do-we-want-a-discordelement-room",
+    "href": "lectures/week_1_intro.html#do-we-want-a-discordelement-room",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Do we want a Discord/Element room?",
+    "text": "Do we want a Discord/Element room?"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#please-be-vocal",
+    "href": "lectures/week_1_intro.html#please-be-vocal",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Please be vocal",
+    "text": "Please be vocal\n\nI will solicit feedback as part of reflections\nLet me know what is and isn’t working"
+  },
+  {
+    "objectID": "lectures/week_1_intro.html#questions",
+    "href": "lectures/week_1_intro.html#questions",
+    "title": "Welcome to Interdisciplinary Research Methods!",
+    "section": "Questions?",
+    "text": "Questions?"
   },
   {
     "objectID": "about.html",

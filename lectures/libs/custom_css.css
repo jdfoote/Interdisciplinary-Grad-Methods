@@ -32,7 +32,12 @@ text-transform: none;
 }
 
 .reveal h1 {
-margin-top:200px;
+margin-top:0px;
+text-align: center;
+}
+
+.reveal h2 {
+	text-align: center;
 }
 
 div.footnote {
